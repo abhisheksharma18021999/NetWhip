@@ -1,0 +1,27 @@
+
+------------------------DOCKER---------------------------------------
+
+
+Build the Docker Image
+docker build -t redhairedshanks/debug-tools:latest .
+
+docker tag myimage redhairedshanks/myimage:latest
+
+
+
+Login to Docker Registry
+docker login --username redhairedshanks
+docker info | grep Username
+
+
+
+FIX Docker Login Issue 
+docker context ls
+docker context use default
+
+
+
+Push to Docker Hub (or any registry)
+docker push redhairedshanks/debug-tools:latest
+
+------------------------Create the Helm Chart--------------------------
