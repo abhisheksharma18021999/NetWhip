@@ -1,0 +1,15 @@
+replicaCount: 1
+
+image:
+  repository: redhairedshanks/netwhip
+  pullPolicy: Always
+  tag: "latest"
+
+resources: {}
+
+nodeSelector:
+  kubernetes.io/arch: amd64
+
+tolerations: []
+
+affinity: {}
