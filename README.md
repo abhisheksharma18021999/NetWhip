@@ -28,4 +28,6 @@ make setup
 make install
 make uninstall
 <img width="1712" alt="Screenshot 2025-06-27 at 1 10 44 AM" src="https://github.com/user-attachments/assets/0ef64b9d-527f-4674-a301-bdd2b1af8601" />
+![NetWhip Install](https://raw.githubusercontent.com/abhisheksharma18021999/NetWhip/main/assets/image1.png)
+
 ``` 
