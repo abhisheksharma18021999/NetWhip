@@ -7,7 +7,7 @@ NetWhip is a lightweight Helm chart for deploying debug or utility containers in
 ## 🐳 Image 
 redhairedshanks/netwhip:latest 
 
-## 🐳 How to use
+## 🛠️ How to use
 ```
 # Create a file with all helm cmds
 touch Makefile 
